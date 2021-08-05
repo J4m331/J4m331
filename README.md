@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @J4m331
+- 👋 Hi, I’m Jameel Ali aka J4m331
 - 👀 I’m interested in Game Development, Program Creation, just mesing around with code
 - 🌱 I’m currently learning to make games in unity, learning C++,C# and Pascal
-- 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me: Youtube  : https://www.youtube.com/c/JameelAli
                       Twitter  : https://twitter.com/j4m331
-                      Instagram: https://www.instagram.com/_jameel16/
                       Itch     : https://j4m331.itch.io/
 
 <!---
