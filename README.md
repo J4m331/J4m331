@@ -1,6 +1,6 @@
-Hello, my name is Jameel Ali (J4m331)
-I’m interested in Game Development, Program Creation, just mesing around with code
-I’m currently learning to make games in unity, learning C++,C# and Pascal
+Hello, my name is Jameel Ali (J4m331).
+I’m interested in Game Development, Program Creation, just mesing around with code.
+I’m currently learning to make games in unity, learning C++,C# and Pascal.
 My links: 
   Youtube  : https://www.youtube.com/c/JameelAli
   Twitter  : https://twitter.com/j4m331
