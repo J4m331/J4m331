@@ -1,4 +1,4 @@
-Hello, my name is Jameel Ali (J4m331).
+Hello there, my name is Jameel Ali (J4m331).
 
 I’m interested in Game Development, Program Creation and just mesing around with code.
 
