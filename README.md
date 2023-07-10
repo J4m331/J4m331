@@ -8,8 +8,6 @@ My links:
 
   [Youtube](https://www.youtube.com/c/JameelAli)
   
-  [Twitter](https://twitter.com/j4m331)
-  
   [Itch](https://j4m331.itch.io/)
 
 <!---
